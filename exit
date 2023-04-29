@@ -1,0 +1,54 @@
+[
+	{
+    "name": "as",
+    "coordinate_x": 213,
+    "coordinate_y": 14.23,
+    "minimalPoint": 3129,
+    "description": "mfkal",
+    "tunedInWorks": 392139812,
+    "difficulty": "EASY",
+    "discipline": {
+        "name": "jfia",
+        "practiceHours": 3281
+    }
+},
+{
+    "name": "LabWork1",
+    "coordinate_x": 3,
+    "coordinate_y": 2.4,
+    "minimalPoint": 6,
+    "description": "smth",
+    "tunedInWorks": 5,
+    "difficulty": "NORMAL",
+    "discipline": {
+        "name": "math",
+        "practiceHours": 55
+    }
+},
+{
+    "name": "LabWork2",
+    "coordinate_x": 5,
+    "coordinate_y": 4.5,
+    "minimalPoint": 7,
+    "description": "smth2",
+    "tunedInWorks": 1,
+    "difficulty": "INSANE",
+    "discipline": {
+        "name": "lol",
+        "practiceHours": 123
+    }
+},
+{
+    "name": "LabWork3",
+    "coordinate_x": 78,
+    "coordinate_y": 412.2,
+    "minimalPoint": 42,
+    "description": "smth3",
+    "tunedInWorks": 15,
+    "difficulty": "EASY",
+    "discipline": {
+        "name": "xczvxz",
+        "practiceHours": 6767
+    }
+}
+]
